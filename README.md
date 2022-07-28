@@ -116,6 +116,8 @@ Now it's time to put it all together and test the Fintech Finder application wit
 ## Submission
 
 ![Account_balance](images/Address_bal_trxn_hist.png)
+![Blocks](images/blocks.png)
+![transactions](images/Ganache_transaction.png)
 
 * Upload the files for this assignment to your GitHub repository.
 
