@@ -5,6 +5,7 @@ Homework for Unit 19, Blockchain.
 
 # Technology Used:
 ## python, VS Code, Streamlit, Ganache.
+### python script is run from terminal using: streamlit run fintech_finder.py
 
 ![An image shows a wallet with bitcoin.](images/19-4-challenge-image.png)
 
