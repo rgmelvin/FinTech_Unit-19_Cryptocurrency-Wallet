@@ -4,8 +4,9 @@ Homework for Unit 19, Blockchain.
 ## Unit 19 Homework: Cryptocurrency Wallet
 
 # Technology Used:
-## python, VS Code, Streamlit, Ganache.
+## python, VS Code, Streamlit (streamlit.io), and Ganache (Trufflesuite.com).
 ### python script is run from terminal using: streamlit run fintech_finder.py
+### User must supply .env file that contains a 12-word mnemonic for their personal Etherium account from Ganache. The .env file contains: MNEMONIC = '12-word mnemonic'
 
 ![An image shows a wallet with bitcoin.](images/19-4-challenge-image.png)
 
