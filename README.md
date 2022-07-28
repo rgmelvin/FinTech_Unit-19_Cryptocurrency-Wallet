@@ -3,7 +3,7 @@ Homework for Unit 19, Blockchain.
 
 ## Unit 19 Homework: Cryptocurrency Wallet
 
-![An image shows a wallet with bitcoin.](Images/19-4-challenge-image.png)
+![An image shows a wallet with bitcoin.](images/19-4-challenge-image.png)
 
 ### Background
 
@@ -114,6 +114,8 @@ Now it's time to put it all together and test the Fintech Finder application wit
 ---
 
 ## Submission
+
+![Account_balance](images/Address_bal_trxn_hist.png)
 
 * Upload the files for this assignment to your GitHub repository.
 
