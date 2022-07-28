@@ -115,6 +115,7 @@ Now it's time to put it all together and test the Fintech Finder application wit
 
 ## Submission
 
+![AppView](images/App.png)
 ![Account_balance](images/Address_bal_trxn_hist.png)
 ![Blocks](images/blocks.png)
 ![transactions](images/Ganache_transaction.png)
